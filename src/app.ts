@@ -1,4 +1,4 @@
-import {Component, Directive, ElementRef, Renderer} from 'angular2/angular2';
+import {Component, Directive, ElementRef, Renderer} from 'angular2/core';
 
 
 @Directive({
